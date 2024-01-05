@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lena@mangold.org/sitemap.xml
+Sitemap: https://lenamangold@github.io/sitemap.xml
