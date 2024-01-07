@@ -10,14 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://cmb.huma-num.fr/">Computational Social Science team</a></p>
-    <p>Centre Marc Bloch (CNRS / HU-Berlin)</p>
+    <p>Centre Marc Bloch</p>
+    <p>(CNRS / HU-Berlin)</p>
     <p>Friedrichstr. 191</p>
     <p>10117 Berlin</p>
-    <p><a href="https://bsky.app/profile/lenamangold.bsky.social">Bluesky</a></p>
-    <p><a href="https://twitter.com/lenafmangold">X</a></p>
-    <p><a href="https://www.linkedin.com/in/lena-mangold-491439a7/">LinkedIn</a></p>
-    <p><a href="https://scholar.google.com/citations?user=KTVHlcgAAAAJ&hl=en">Google Scholar</a></p>
-
 
 
 news: false  # includes a list of news items
