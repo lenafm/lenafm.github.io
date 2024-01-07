@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lenamangold@github.io/sitemap.xml
+Sitemap: https://lenafm@github.io/sitemap.xml
