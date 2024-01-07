@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Spring 2024
 
-Organize your courses by years, topics, or universities, however you like!
+_Teaching Assistant_
+
+[Data Structures & Algorithms](https://www.hertie-school.org/en/study/course-catalogue/course/course/data-structures-and-algorithms)
+part of the [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds) at Hertie School, Berlin.
