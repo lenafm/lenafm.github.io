@@ -32,5 +32,7 @@ I am fascinated by many topics around the theory and application of complex netw
                         structures in networks.
 
 In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project,
-                        my current project focuses on analysing and understanding online conversations and fragmentation
-                        processes of such conversations by studying 'socio-semantic clusters' in online public spaces.
+my current research focuses on analysing and understanding the meso-scale of networks very broadly and that of 
+online interaction networks more specifically, to study 'socio-semantic' configurations in online public spaces. 
+Recently, I have been fascinated by the diversity and coexistence of network partitions through the lens of 
+Stochastic block models, and by ways of exploring the relationship between metadata and network structure.
