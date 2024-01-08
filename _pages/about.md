@@ -31,8 +31,8 @@ I am fascinated by many topics around the theory and application of complex netw
                         social sphere and in methods for the detection of intermediate-scale
                         structures in networks.
 
-In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project,
-my current research focuses on analysing and understanding the meso-scale of networks very broadly and that of 
-online interaction networks more specifically, to study 'socio-semantic' configurations in online public spaces. 
-Recently, I have been fascinated by the diversity and coexistence of network partitions through the lens of 
-Stochastic block models, and by ways of exploring the relationship between metadata and network structure.
+In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project (Socio-semantic Bubbles of Internet 
+Communities) my PhD project focuses on analysing and understanding online conversations and configurations of such 
+conversations through the lens of complex networks. In particular, I am currently studying the diversity of block 
+structure in networks, the relationship between metadata and such block structure, and these phenomena in the specific 
+context of online interaction networks and semantic node attributes.
