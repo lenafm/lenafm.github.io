@@ -30,8 +30,6 @@ I am fascinated by many topics around the theory and application of complex netw
 methods for the detection of intermediate-scale structures in networks and in the application of such methods to 
 understand emergent dynamics of complex networks in the political and social sphere.
 
-In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project my PhD project focuses on analysing and 
-understanding online conversations and configurations of such conversations through the lens of complex networks. 
-Recently, I have been studying the diversity of block structure in networks and the relationship between metadata and 
-such block structure, and these phenomena in the specific context of online interaction networks and semantic node 
-attributes.
+In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project my PhD project focuses on the diversity 
+of block structure in networks, the relationship between metadata and such block structure, and an exploration of these 
+phenomena in the specific context of online interaction networks and semantic node attributes.
