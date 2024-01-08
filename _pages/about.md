@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>PhD student</p>
     <p><a href="https://cmb.huma-num.fr/">Computational Social Science team</a></p>
     <p>Centre Marc Bloch</p>
     <p>(CNRS / HU-Berlin)</p>
@@ -22,17 +23,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Computational Social Science team lead by Camille Roth, at Centre Marc
-                        Bloch in Berlin, and at the Center of Analysis and Social Mathematics (CAMS) at École des
-                        hautes études en sciences sociales (EHESS) in Paris.
+I am a PhD student in the Computational Social Science team lead by Camille Roth, at Centre Marc Bloch (Berlin), 
+and at the Center of Analysis and Social Mathematics (CAMS), EHESS (Paris).
 
-I am fascinated by many topics around the theory and application of complex networks. I am
-                        particularly interested in emergent dynamics of complex networks in the political and
-                        social sphere and in methods for the detection of intermediate-scale
-                        structures in networks.
+I am fascinated by many topics around the theory and application of complex networks. I am particularly interested in 
+methods for the detection of intermediate-scale structures in networks and in the application of such methods to 
+understand emergent dynamics of complex networks in the political and social sphere.
 
-In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project (Socio-semantic Bubbles of Internet 
-Communities) my PhD project focuses on analysing and understanding online conversations and configurations of such 
-conversations through the lens of complex networks. In particular, I am currently studying the diversity of block 
-structure in networks, the relationship between metadata and such block structure, and these phenomena in the specific 
-context of online interaction networks and semantic node attributes.
+In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project my PhD project focuses on analysing and 
+understanding online conversations and configurations of such conversations through the lens of complex networks. 
+Recently, I have been studying the diversity of block structure in networks and the relationship between metadata and 
+such block structure, and these phenomena in the specific context of online interaction networks and semantic node 
+attributes.

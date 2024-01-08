@@ -29,7 +29,7 @@ _Generative models for two-ground-truth partitions in networks_
 
 Science Slam (Centre Marc Bloch), Berlin
 
-_The Complexity of Online Spaces_
+_[The Complexity of Online Spaces](https://www.youtube.com/watch?v=EQP95Np8MQ8)_
 
 ### 09/2022	
 
