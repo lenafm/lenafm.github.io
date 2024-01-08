@@ -1,24 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lena Mangold",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lena.mangold@cmb.hu-berlin.de",
+    "url": "https://lenafm.github.io/",
+    "summary": "PhD Student at Centre Marc Bloch (Berlin) and EHESS (Paris), researching mesoscale structures in complex networks.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Friedrichstr. 191",
+      "postalCode": "10117",
+      "city": "Berlin",
+      "countryCode": "DE"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "lenafmangold",
+        "url": "https://twitter.com/lenafmangold"
       }
     ]
   },
