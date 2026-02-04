@@ -23,18 +23,12 @@ social: true  # includes social icons at the bottom of the page
 
 I am a postdoctoral researcher working at the intersection of network science, statistical modelling, 
 and computational social science. My research focuses on the development of Bayesian inferential 
-methods for studying structure in complex networks and high-dimensional data, with a particular 
-emphasis on intermediate-scale structures. 
+methods for studying structure in complex networks.
 
-Alongside my methodological work on network models, I am interested in the use of quantitative 
+Alongside my methodological work, I am interested in the use of quantitative 
 and computational approaches to investigate broader questions related to inequality, 
-representation, and the dynamics of political and social organisation. I am particularly drawn 
-to research that examines how patterns of interaction, communication, and the circulation of 
-information shape, and are shaped by, societal structures. 
+representation, and the dynamics of political and social organisation. 
 
-My doctoral research, conducted within the ERC [socsemics](https://socsemics.huma-num.fr/) project under the supervision 
-of Prof. Camille Roth, focused on the diversity of block structure in networks, the relationship 
-between metadata and such block structure, and the development of generative and 
-information-theoretic tools to study these phenomena. This work was empirically 
-motivated by questions arising in online interaction networks, where relational structure 
-and semantic information coexist in complex and not always overlapping ways.
+My doctoral research focused on the diversity of block structure in networks, the relationship 
+between metadata and such block structure, and an exploration of these phenomena in the specific context of 
+online interaction networks
