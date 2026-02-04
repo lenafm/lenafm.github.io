@@ -7,6 +7,18 @@ nav: true
 nav_order: 6
 ---
 
+### February 2026
+Invited Talk: Oxford University, Mathematical Institute, Networks Seminar
+
+_Partition Diversity in Complex Networks_
+
+
+### June 2025
+International School and Conference on Network Science (NetSci), Maastricht
+
+_Exploring partition landscapes in networks_
+
+
 ### June 2024
 International School and Conference on Network Science (NetSci), Quebec City
 
