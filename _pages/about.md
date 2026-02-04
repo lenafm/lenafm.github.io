@@ -31,4 +31,4 @@ representation, and the dynamics of political and social organisation.
 
 My doctoral research focused on the diversity of block structure in networks, the relationship 
 between metadata and such block structure, and an exploration of these phenomena in the specific context of 
-online interaction networks
+online interaction networks.
