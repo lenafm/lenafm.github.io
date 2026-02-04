@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoc of Complex Systems and Network Science</p>
+    <p>Postdoc</p>
     <p><a href="https://skewed.de/lab/">Inverse Complexity Lab</a></p>
-    <p>Interdisciplinary Transformation University Austria</p>
+    <p>Complex Systems and Network Science</p>
+    <p>IT:U Austria</p>
 
 
 news: false  # includes a list of news items
