@@ -9,12 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD student</p>
-    <p><a href="https://cmb.huma-num.fr/">Computational Social Science team</a></p>
-    <p>Centre Marc Bloch</p>
-    <p>(CNRS / HU-Berlin)</p>
-    <p>Friedrichstr. 191</p>
-    <p>10117 Berlin</p>
+    <p>Postdoc of Complex Systems and Network Science</p>
+    <p><a href="https://skewed.de/lab/">Inverse Complexity Lab</a></p>
+    <p>Interdisciplinary Transformation University Austria</p>
 
 
 news: false  # includes a list of news items
@@ -23,13 +20,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Computational Social Science team lead by Camille Roth, at Centre Marc Bloch (Berlin), 
-and at the Center of Analysis and Social Mathematics (CAMS), EHESS (Paris).
+I am a postdoctoral researcher working at the intersection of network science, statistical modelling, 
+and computational social science. My research focuses on the development of Bayesian inferential 
+methods for studying structure in complex networks and high-dimensional data, with a particular 
+emphasis on intermediate-scale structures. 
 
-I am fascinated by many topics around the theory and application of complex networks. I am particularly interested in 
-methods for the detection of intermediate-scale structures in networks and in the application of such methods to 
-understand emergent dynamics of complex networks in the political and social sphere.
+Alongside my methodological work on network models, I am interested in the use of quantitative 
+and computational approaches to investigate broader questions related to inequality, 
+representation, and the dynamics of political and social organisation. I am particularly drawn 
+to research that examines how patterns of interaction, communication, and the circulation of 
+information shape, and are shaped by, societal structures. 
 
-In the context of the ERC [socsemics](https://socsemics.huma-num.fr/) project my PhD project focuses on the diversity 
-of block structure in networks, the relationship between metadata and such block structure, and an exploration of these 
-phenomena in the specific context of online interaction networks and semantic node attributes.
+My doctoral research, conducted within the ERC [socsemics](https://socsemics.huma-num.fr/) project under the supervision 
+of Prof. Camille Roth, focused on the diversity of block structure in networks, the relationship 
+between metadata and such block structure, and the development of generative and 
+information-theoretic tools to study these phenomena. This work was empirically 
+motivated by questions arising in online interaction networks, where relational structure 
+and semantic information coexist in complex and not always overlapping ways.
