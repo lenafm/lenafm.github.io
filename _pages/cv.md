@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: cv
+cv_format: rendercv
 permalink: /cv/
 title: cv
 description: 

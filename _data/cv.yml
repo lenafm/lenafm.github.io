@@ -1,97 +1,96 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+cv:
+  name: Lena Mangold
+  label: Postdoctoral Researcher
+  image: ""
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+  social_networks: []
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  sections:
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    Education:
+      - institution: EHESS / Centre national de la recherche scientifique (CNRS) / Centre Marc Bloch
+        location: Paris & Berlin
+        area: Applied Mathematics and Computer Science
+        studyType: PhD
+        start_date: 2021-10
+        end_date: 2025-07
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+      - institution: University of Oxford
+        location: Oxford, United Kingdom
+        area: Mathematical Modelling and Scientific Computing
+        studyType: MSc
+        start_date: 2015-10
+        end_date: 2016-09
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      - institution: University of Sussex
+        location: Sussex, United Kingdom
+        area: Mathematics
+        studyType: BSc (Hons)
+        start_date: 2011-10
+        end_date: 2014-06
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    Experience:
+      - company: Interdisciplinary Transformation University (IT:U)
+        position: Postdoctoral Researcher
+        start_date: 2025-07
+        end_date: ""
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+      - company: Centre national de la recherche scientifique (CNRS) / EHESS / Centre Marc Bloch
+        position: Doctoral Researcher
+        start_date: 2021-10
+        end_date: 2025-07
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - company: Hertie School, Berlin
+        position: Teaching Assistant – Data Structures and Algorithms
+        start_date: 2024-02
+        end_date: 2024-06
+
+      - company: Datasketch
+        position: Lead Data Scientist
+        start_date: 2020-07
+        end_date: 2021-09
+
+      - company: Freelance
+        position: Data Scientist
+        start_date: 2019-12
+        end_date: 2020-06
+
+      - company: UK Labour Party
+        position: Data Scientist / Targeting & Analysis Manager
+        start_date: 2016-10
+        end_date: 2019-12
+
+
+    Awards:
+      - title: Best Student Talk Award
+        date: 2025-06
+        awarder: International School and Conference on Network Science (NetSci)
+
+      - title: Scholarship
+        date: 2015
+        awarder: German Academic Scholarship Foundation
+
+      - title: Keeley Scholarship
+        date: 2015
+        awarder: Wadham College, University of Oxford
+
+      - title: Prize for Outstanding Performance
+        date: 2014
+        awarder: University of Sussex
+
+
+    Publications:
+      - title: Generative models for two-ground-truth partitions in networks
+        authors:
+          - Lena Mangold
+          - Camille Roth
+        publisher: Physical Review E
+        releaseDate: 2023-11
+
+      - title: Quantifying metadata-structure relationships in networks using description length
+        authors:
+          - Lena Mangold
+          - Camille Roth
+        publisher: Communications Physics
+        releaseDate: 2024-10
