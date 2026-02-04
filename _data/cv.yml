@@ -5,6 +5,13 @@ cv:
 
   social_networks: []
 
+  address:
+    street: ""
+    city: ""
+    region: ""
+    postalCode: ""
+    countryCode: ""
+
   sections:
 
     Education:
@@ -14,6 +21,9 @@ cv:
         studyType: PhD
         start_date: 2021-10
         end_date: 2025-07
+        score: ""
+        courses: ""
+        highlights: []
 
       - institution: University of Oxford
         location: Oxford, United Kingdom
@@ -21,6 +31,9 @@ cv:
         studyType: MSc
         start_date: 2015-10
         end_date: 2016-09
+        score: ""
+        courses: ""
+        highlights: []
 
       - institution: University of Sussex
         location: Sussex, United Kingdom
@@ -28,69 +41,87 @@ cv:
         studyType: BSc (Hons)
         start_date: 2011-10
         end_date: 2014-06
+        score: ""
+        courses: ""
+        highlights: []
 
 
     Experience:
       - company: Interdisciplinary Transformation University (IT:U)
         position: Postdoctoral Researcher
+        location: Linz, Austria
         start_date: 2025-07
         end_date: ""
+        summary: ""
+        highlights: []
 
       - company: Centre national de la recherche scientifique (CNRS) / EHESS / Centre Marc Bloch
         position: Doctoral Researcher
+        location: Paris & Berlin
         start_date: 2021-10
         end_date: 2025-07
+        summary: ""
+        highlights: []
 
       - company: Hertie School, Berlin
         position: Teaching Assistant – Data Structures and Algorithms
+        location: Berlin, Germany
         start_date: 2024-02
         end_date: 2024-06
+        summary: ""
+        highlights: []
 
       - company: Datasketch
         position: Lead Data Scientist
+        location: Bogotá, Colombia
         start_date: 2020-07
         end_date: 2021-09
+        summary: ""
+        highlights: []
 
       - company: Freelance
         position: Data Scientist
+        location: ""
         start_date: 2019-12
         end_date: 2020-06
+        summary: ""
+        highlights: []
 
       - company: UK Labour Party
         position: Data Scientist / Targeting & Analysis Manager
+        location: London, United Kingdom
         start_date: 2016-10
         end_date: 2019-12
+        summary: ""
+        highlights: []
 
 
     Awards:
       - title: Best Student Talk Award
+        authors: []
         date: 2025-06
-        awarder: International School and Conference on Network Science (NetSci)
+        awarder: International School and Conference on Network Science (NetSci), Maastricht
+        url: ""
+        summary: ""
 
       - title: Scholarship
+        authors: []
         date: 2015
-        awarder: German Academic Scholarship Foundation
+        awarder: Studienstiftung / German Academic Scholarship Foundation
+        url: ""
+        summary: ""
 
       - title: Keeley Scholarship
+        authors: []
         date: 2015
         awarder: Wadham College, University of Oxford
+        url: ""
+        summary: ""
 
       - title: Prize for Outstanding Performance
+        authors: []
         date: 2014
         awarder: University of Sussex
+        url: ""
+        summary: ""
 
-
-    Publications:
-      - title: Generative models for two-ground-truth partitions in networks
-        authors:
-          - Lena Mangold
-          - Camille Roth
-        publisher: Physical Review E
-        releaseDate: 2023-11
-
-      - title: Quantifying metadata-structure relationships in networks using description length
-        authors:
-          - Lena Mangold
-          - Camille Roth
-        publisher: Communications Physics
-        releaseDate: 2024-10
