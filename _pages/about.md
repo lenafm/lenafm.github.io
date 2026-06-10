@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Postdoc</p>
     <p><a href="https://skewed.de/lab/">Inverse Complexity Lab</a></p>
-    <p>Complex Systems and Network Science</p>
-    <p>IT:U Austria</p>
+    <p><a href="https://www.c3s-frankfurt.de/">Center for Critical Computational Studies (C3S)</a></p>
+    <p>Goethe-University Frankfurt am Main, Germany</p>
 
 
 news: false  # includes a list of news items
